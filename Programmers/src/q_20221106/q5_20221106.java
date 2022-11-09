@@ -1,3 +1,4 @@
+package q_20221106;
 import java.util.Arrays;
 
 public class q5_20221106 {

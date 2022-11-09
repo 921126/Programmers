@@ -1,3 +1,4 @@
+package q_20221106;
 
 public class q6_20221106 {
 
