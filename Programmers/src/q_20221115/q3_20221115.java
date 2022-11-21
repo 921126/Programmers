@@ -7,7 +7,7 @@ public class q3_20221115 {
 	public static void main(String[] args) {
 
 		Solution3 sl = new Solution3();
-		System.out.println(sl.solution("1 Z Z 2 3"));
+		System.out.println(sl.solution("1 2 3 Z Z"));
 
 	}
 
